@@ -19,7 +19,7 @@ Um exemplo de estrutura de dados é uma FILA.
 Um ponto forte dessa estrutura de dados, é que o primeiro dado a entrar é o primeiro a sair.
 Por outro lado, o ponto fraco, é que o dado que entra na fila precisa aguardar todos os dados a frente dele saírem antes dele sair.
 
-### 1. 1-4 Em que aspectos os problemas anteriores do caminho mais curto e do caixeiro-viajante são semelhantes? Em que aspectos eles são diferentes
+### 1. 1-4 Em que aspectos os problemas anteriores do caminho mais curto e do caixeiro-viajante são semelhantes? Em que aspectos eles são diferentes?
 
 Os problemas do caminhos mais curto e do caixeiro-viajante são semelhantes no aspecto de que
 os dois problemas buscam caminhos mais curtos possíveis para ter uma velocidade maior de resultado.
